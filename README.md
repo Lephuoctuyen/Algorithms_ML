@@ -1,6 +1,4 @@
-Dưới đây là phiên bản được chỉnh sửa và sắp xếp hợp lý hơn để đảm bảo nội dung đúng, rõ ràng và dễ theo dõi:  
 
----
 
 ### **1. Regression and Classification with Scikit-learn**  
 #### **1.1 Linear Models**  
